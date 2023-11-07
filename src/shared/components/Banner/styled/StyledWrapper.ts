@@ -16,7 +16,7 @@ export const StyledWrapper = styled.div<IStyledWrapperProps>`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 100%;
   padding: ${(80 / (568 / 100))}vh 16px 48px;
   background: ${({ $background = gradient }) => $background || gradient};
 
