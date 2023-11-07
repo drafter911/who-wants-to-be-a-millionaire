@@ -1,0 +1,1278 @@
+{
+  "levels": [
+    {
+      "id": "level-1",
+      "reward": 500
+    },
+    {
+      "id": "level-2",
+      "reward": 1000
+    },
+    {
+      "id": "level-3",
+      "reward": 2000
+    },
+    {
+      "id": "level-4",
+      "reward": 4000
+    },
+    {
+      "id": "level-5",
+      "reward": 8000
+    },
+    {
+      "id": "level-6",
+      "reward": 16000
+    },
+    {
+      "id": "level-7",
+      "reward": 32000
+    },
+    {
+      "id": "level-8",
+      "reward": 64000
+    },
+    {
+      "id": "level-9",
+      "reward": 125000
+    },
+    {
+      "id": "level-10",
+      "reward": 250000
+    },
+    {
+      "id": "level-11",
+      "reward": 500000
+    },
+    {
+      "id": "level-12",
+      "reward": 1000000
+    }
+  ],
+  "questions": {
+    "level-1": [
+      {
+        "question": "What is the capital of France?",
+        "answers": [
+          "Paris",
+          "London",
+          "Berlin",
+          "Madrid"
+        ],
+        "correctAnswers": ["Paris"]
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+          "Mars",
+          "Venus",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctAnswers": ["Mars"]
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "answers": [
+          "Elephant",
+          "Giraffe",
+          "Blue Whale",
+          "Hippopotamus"
+        ],
+        "correctAnswers": ["Blue Whale"]
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Carbon Dioxide"]
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "answers": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctAnswers": ["7"]
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+          "Go",
+          "Au",
+          "Gl",
+          "Gd"
+        ],
+        "correctAnswers": ["Au"]
+      },
+      {
+        "question": "Which of these animals is not a mammal?",
+        "answers": [
+          "Dolphin",
+          "Kangaroo",
+          "Crocodile",
+          "Lion"
+        ],
+        "correctAnswers": ["Crocodile"]
+      },
+      {
+        "question": "Who is the author of 'Romeo and Juliet'?",
+        "answers": [
+          "Charles Dickens",
+          "Mark Twain",
+          "William Shakespeare",
+          "Jane Austen"
+        ],
+        "correctAnswers": ["William Shakespeare"]
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswers": ["2"]
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "answers": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "correctAnswers": ["Mount Everest"]
+      }
+    ],
+    "level-2": [
+      {
+        "question": "Which of the following is a primary color?",
+        "answers": [
+          "Green",
+          "Orange",
+          "Purple",
+          "Red"
+        ],
+        "correctAnswers": ["Red"]
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "answers": [
+          "Earth",
+          "Mars",
+          "Jupiter",
+          "Venus"
+        ],
+        "correctAnswers": ["Jupiter"]
+      },
+      {
+        "question": "What gas do plants release during photosynthesis?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Oxygen"]
+      },
+      {
+        "question": "Which famous physicist developed the theory of general relativity?",
+        "answers": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Stephen Hawking",
+          "Galileo Galilei"
+        ],
+        "correctAnswers": ["Albert Einstein"]
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "answers": [
+          "Wt",
+          "H2O",
+          "O2",
+          "CO2"
+        ],
+        "correctAnswers": ["H2O"]
+      },
+      {
+        "question": "Which of the following is not a mammal?",
+        "answers": [
+          "Dolphin",
+          "Kangaroo",
+          "Crocodile",
+          "Lion"
+        ],
+        "correctAnswers": ["Crocodile"]
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "answers": [
+          "Heart",
+          "Brain",
+          "Liver",
+          "Skin"
+        ],
+        "correctAnswers": ["Skin"]
+      },
+      {
+        "question": "In what year did the Titanic sink?",
+        "answers": [
+          "1907",
+          "1912",
+          "1925",
+          "1931"
+        ],
+        "correctAnswers": ["1912"]
+      },
+      {
+        "question": "Which gas do most plants absorb from the atmosphere?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Carbon Dioxide"]
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswers": ["2"]
+      }
+    ],
+    "level-3": [
+      {
+        "question": "Who wrote the play 'Hamlet'?",
+        "answers": [
+          "Charles Dickens",
+          "William Shakespeare",
+          "Jane Austen",
+          "Taras Shevchenko"
+        ],
+        "correctAnswers": ["William Shakespeare"]
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "answers": [
+          "Beijing",
+          "Seoul",
+          "Tokyo",
+          "Bangkok"
+        ],
+        "correctAnswers": ["Tokyo"]
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+          "Go",
+          "Au",
+          "Gl",
+          "Gd"
+        ],
+        "correctAnswers": ["Au"]
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "answers": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctAnswers": ["7"]
+      },
+      {
+        "question": "What is the largest internal organ in the human body?",
+        "answers": [
+          "Heart",
+          "Brain",
+          "Liver",
+          "Lungs"
+        ],
+        "correctAnswers": ["Liver"]
+      },
+      {
+        "question": "Which of the following is not a programming language?",
+        "answers": [
+          "Python",
+          "Java",
+          "Cucumber",
+          "JavaScript"
+        ],
+        "correctAnswers": ["Cucumber"]
+      },
+      {
+        "question": "What is the capital of Brazil?",
+        "answers": [
+          "Buenos Aires",
+          "Lima",
+          "Rio de Janeiro",
+          "Brasília"
+        ],
+        "correctAnswers": ["Brasília"]
+      },
+      {
+        "question": "What is the smallest planet in our solar system?",
+        "answers": [
+          "Mars",
+          "Earth",
+          "Venus",
+          "Mercury"
+        ],
+        "correctAnswers": ["Mercury"]
+      },
+      {
+        "question": "Who is the author of 'Zapovit'?",
+        "answers": [
+          "Charles Dickens",
+          "Lesya Ukrainka",
+          "Taras Shevchenko",
+          "Jane Austen"
+        ],
+        "correctAnswers": ["Taras Shevchenko"]
+      },
+      {
+        "question": "Which of the following is a noble gas?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Argon",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Argon"]
+      }
+    ],
+    "level-4": [
+      {
+        "question": "What is the capital of France?",
+        "answers": [
+          "Paris",
+          "London",
+          "Berlin",
+          "Madrid"
+        ],
+        "correctAnswers": ["Paris"]
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+          "Mars",
+          "Venus",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctAnswers": ["Mars"]
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "answers": [
+          "Elephant",
+          "Giraffe",
+          "Blue Whale",
+          "Hippopotamus"
+        ],
+        "correctAnswers": ["Blue Whale"]
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Carbon Dioxide"]
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "answers": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctAnswers": ["7"]
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+          "Go",
+          "Au",
+          "Gl",
+          "Gd"
+        ],
+        "correctAnswers": ["Au"]
+      },
+      {
+        "question": "Which of these animals is not a mammal?",
+        "answers": [
+          "Dolphin",
+          "Kangaroo",
+          "Crocodile",
+          "Lion"
+        ],
+        "correctAnswers": ["Crocodile"]
+      },
+      {
+        "question": "Who is the author of 'Romeo and Juliet'?",
+        "answers": [
+          "Charles Dickens",
+          "Mark Twain",
+          "William Shakespeare",
+          "Jane Austen"
+        ],
+        "correctAnswers": ["William Shakespeare"]
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswers": ["2"]
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "answers": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "correctAnswers": ["Mount Everest"]
+      }
+    ],
+    "level-5": [
+      {
+        "question": "Which of the following is a primary color?",
+        "answers": [
+          "Green",
+          "Orange",
+          "Purple",
+          "Red"
+        ],
+        "correctAnswers": ["Red"]
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "answers": [
+          "Earth",
+          "Mars",
+          "Jupiter",
+          "Venus"
+        ],
+        "correctAnswers": ["Jupiter"]
+      },
+      {
+        "question": "What gas do plants release during photosynthesis?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Oxygen"]
+      },
+      {
+        "question": "Which famous physicist developed the theory of general relativity?",
+        "answers": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Stephen Hawking",
+          "Galileo Galilei"
+        ],
+        "correctAnswers": ["Albert Einstein"]
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "answers": [
+          "Wt",
+          "H2O",
+          "O2",
+          "CO2"
+        ],
+        "correctAnswers": ["H2O"]
+      },
+      {
+        "question": "Which of the following is not a mammal?",
+        "answers": [
+          "Dolphin",
+          "Kangaroo",
+          "Crocodile",
+          "Lion"
+        ],
+        "correctAnswers": ["Crocodile"]
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "answers": [
+          "Heart",
+          "Brain",
+          "Liver",
+          "Skin"
+        ],
+        "correctAnswers": ["Skin"]
+      },
+      {
+        "question": "In what year did the Titanic sink?",
+        "answers": [
+          "1907",
+          "1912",
+          "1925",
+          "1931"
+        ],
+        "correctAnswers": ["1912"]
+      },
+      {
+        "question": "Which gas do most plants absorb from the atmosphere?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Carbon Dioxide"]
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswers": ["2"]
+      }
+    ],
+    "level-6": [
+      {
+        "question": "Who wrote the play 'Hamlet'?",
+        "answers": [
+          "Charles Dickens",
+          "William Shakespeare",
+          "Jane Austen",
+          "Taras Shevchenko"
+        ],
+        "correctAnswers": ["William Shakespeare"]
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "answers": [
+          "Beijing",
+          "Seoul",
+          "Tokyo",
+          "Bangkok"
+        ],
+        "correctAnswers": ["Tokyo"]
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+          "Go",
+          "Au",
+          "Gl",
+          "Gd"
+        ],
+        "correctAnswers": ["Au"]
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "answers": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctAnswers": ["7"]
+      },
+      {
+        "question": "What is the largest internal organ in the human body?",
+        "answers": [
+          "Heart",
+          "Brain",
+          "Liver",
+          "Lungs"
+        ],
+        "correctAnswers": ["Liver"]
+      },
+      {
+        "question": "Which of the following is not a programming language?",
+        "answers": [
+          "Python",
+          "Java",
+          "Cucumber",
+          "JavaScript"
+        ],
+        "correctAnswers": ["Cucumber"]
+      },
+      {
+        "question": "What is the capital of Brazil?",
+        "answers": [
+          "Buenos Aires",
+          "Lima",
+          "Rio de Janeiro",
+          "Brasília"
+        ],
+        "correctAnswers": ["Brasília"]
+      },
+      {
+        "question": "What is the smallest planet in our solar system?",
+        "answers": [
+          "Mars",
+          "Earth",
+          "Venus",
+          "Mercury"
+        ],
+        "correctAnswers": ["Mercury"]
+      },
+      {
+        "question": "Who is the author of 'Zapovit'?",
+        "answers": [
+          "Charles Dickens",
+          "Lesya Ukrainka",
+          "Taras Shevchenko",
+          "Jane Austen"
+        ],
+        "correctAnswers": ["Taras Shevchenko"]
+      },
+      {
+        "question": "Which of the following is a noble gas?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Argon",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Argon"]
+      }
+    ],
+    "level-7": [
+      {
+        "question": "What is the capital of France?",
+        "answers": [
+          "Paris",
+          "London",
+          "Berlin",
+          "Madrid"
+        ],
+        "correctAnswers": ["Paris"]
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+          "Mars",
+          "Venus",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctAnswers": ["Mars"]
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "answers": [
+          "Elephant",
+          "Giraffe",
+          "Blue Whale",
+          "Hippopotamus"
+        ],
+        "correctAnswers": ["Blue Whale"]
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Carbon Dioxide"]
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "answers": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctAnswers": ["7"]
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+          "Go",
+          "Au",
+          "Gl",
+          "Gd"
+        ],
+        "correctAnswers": ["Au"]
+      },
+      {
+        "question": "Which of these animals is not a mammal?",
+        "answers": [
+          "Dolphin",
+          "Kangaroo",
+          "Crocodile",
+          "Lion"
+        ],
+        "correctAnswers": ["Crocodile"]
+      },
+      {
+        "question": "Who is the author of 'Romeo and Juliet'?",
+        "answers": [
+          "Charles Dickens",
+          "Mark Twain",
+          "William Shakespeare",
+          "Jane Austen"
+        ],
+        "correctAnswers": ["William Shakespeare"]
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswers": ["2"]
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "answers": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "correctAnswers": ["Mount Everest"]
+      }
+    ],
+    "level-8": [
+      {
+        "question": "Which of the following is a primary color?",
+        "answers": [
+          "Green",
+          "Orange",
+          "Purple",
+          "Red"
+        ],
+        "correctAnswers": ["Red"]
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "answers": [
+          "Earth",
+          "Mars",
+          "Jupiter",
+          "Venus"
+        ],
+        "correctAnswers": ["Jupiter"]
+      },
+      {
+        "question": "What gas do plants release during photosynthesis?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Oxygen"]
+      },
+      {
+        "question": "Which famous physicist developed the theory of general relativity?",
+        "answers": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Stephen Hawking",
+          "Galileo Galilei"
+        ],
+        "correctAnswers": ["Albert Einstein"]
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "answers": [
+          "Wt",
+          "H2O",
+          "O2",
+          "CO2"
+        ],
+        "correctAnswers": ["H2O"]
+      },
+      {
+        "question": "Which of the following is not a mammal?",
+        "answers": [
+          "Dolphin",
+          "Kangaroo",
+          "Crocodile",
+          "Lion"
+        ],
+        "correctAnswers": ["Crocodile"]
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "answers": [
+          "Heart",
+          "Brain",
+          "Liver",
+          "Skin"
+        ],
+        "correctAnswers": ["Skin"]
+      },
+      {
+        "question": "In what year did the Titanic sink?",
+        "answers": [
+          "1907",
+          "1912",
+          "1925",
+          "1931"
+        ],
+        "correctAnswers": ["1912"]
+      },
+      {
+        "question": "Which gas do most plants absorb from the atmosphere?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Carbon Dioxide"]
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswers": ["2"]
+      }
+    ],
+    "level-9": [
+      {
+        "question": "Who wrote the play 'Hamlet'?",
+        "answers": [
+          "Charles Dickens",
+          "William Shakespeare",
+          "Jane Austen",
+          "Taras Shevchenko"
+        ],
+        "correctAnswers": ["William Shakespeare"]
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "answers": [
+          "Beijing",
+          "Seoul",
+          "Tokyo",
+          "Bangkok"
+        ],
+        "correctAnswers": ["Tokyo"]
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+          "Go",
+          "Au",
+          "Gl",
+          "Gd"
+        ],
+        "correctAnswers": ["Au"]
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "answers": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctAnswers": ["7"]
+      },
+      {
+        "question": "What is the largest internal organ in the human body?",
+        "answers": [
+          "Heart",
+          "Brain",
+          "Liver",
+          "Lungs"
+        ],
+        "correctAnswers": ["Liver"]
+      },
+      {
+        "question": "Which of the following is not a programming language?",
+        "answers": [
+          "Python",
+          "Java",
+          "Cucumber",
+          "JavaScript"
+        ],
+        "correctAnswers": ["Cucumber"]
+      },
+      {
+        "question": "What is the capital of Brazil?",
+        "answers": [
+          "Buenos Aires",
+          "Lima",
+          "Rio de Janeiro",
+          "Brasília"
+        ],
+        "correctAnswers": ["Brasília"]
+      },
+      {
+        "question": "What is the smallest planet in our solar system?",
+        "answers": [
+          "Mars",
+          "Earth",
+          "Venus",
+          "Mercury"
+        ],
+        "correctAnswers": ["Mercury"]
+      },
+      {
+        "question": "Who is the author of 'Zapovit'?",
+        "answers": [
+          "Charles Dickens",
+          "Lesya Ukrainka",
+          "Taras Shevchenko",
+          "Jane Austen"
+        ],
+        "correctAnswers": ["Taras Shevchenko"]
+      },
+      {
+        "question": "Which of the following is a noble gas?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Argon",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Argon"]
+      }
+    ],
+    "level-10": [
+      {
+        "question": "What is the capital of France?",
+        "answers": [
+          "Paris",
+          "London",
+          "Berlin",
+          "Madrid"
+        ],
+        "correctAnswers": ["Paris"]
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+          "Mars",
+          "Venus",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctAnswers": ["Mars"]
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "answers": [
+          "Elephant",
+          "Giraffe",
+          "Blue Whale",
+          "Hippopotamus"
+        ],
+        "correctAnswers": ["Blue Whale"]
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Carbon Dioxide"]
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "answers": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctAnswers": ["7"]
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+          "Go",
+          "Au",
+          "Gl",
+          "Gd"
+        ],
+        "correctAnswers": ["Au"]
+      },
+      {
+        "question": "Which of these animals is not a mammal?",
+        "answers": [
+          "Dolphin",
+          "Kangaroo",
+          "Crocodile",
+          "Lion"
+        ],
+        "correctAnswers": ["Crocodile"]
+      },
+      {
+        "question": "Who is the author of 'Romeo and Juliet'?",
+        "answers": [
+          "Charles Dickens",
+          "Mark Twain",
+          "William Shakespeare",
+          "Jane Austen"
+        ],
+        "correctAnswers": ["William Shakespeare"]
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswers": ["2"]
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "answers": [
+          "Mount Kilimanjaro",
+          "Mount Everest",
+          "Mount Fuji",
+          "Mount McKinley"
+        ],
+        "correctAnswers": ["Mount Everest"]
+      }
+    ],
+    "level-11": [
+      {
+        "question": "Which of the following is a primary color?",
+        "answers": [
+          "Green",
+          "Orange",
+          "Purple",
+          "Red"
+        ],
+        "correctAnswers": ["Red"]
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "answers": [
+          "Earth",
+          "Mars",
+          "Jupiter",
+          "Venus"
+        ],
+        "correctAnswers": ["Jupiter"]
+      },
+      {
+        "question": "What gas do plants release during photosynthesis?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Oxygen"]
+      },
+      {
+        "question": "Which famous physicist developed the theory of general relativity?",
+        "answers": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Stephen Hawking",
+          "Galileo Galilei"
+        ],
+        "correctAnswers": ["Albert Einstein"]
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "answers": [
+          "Wt",
+          "H2O",
+          "O2",
+          "CO2"
+        ],
+        "correctAnswers": ["H2O"]
+      },
+      {
+        "question": "Which of the following is not a mammal?",
+        "answers": [
+          "Dolphin",
+          "Kangaroo",
+          "Crocodile",
+          "Lion"
+        ],
+        "correctAnswers": ["Crocodile"]
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "answers": [
+          "Heart",
+          "Brain",
+          "Liver",
+          "Skin"
+        ],
+        "correctAnswers": ["Skin"]
+      },
+      {
+        "question": "In what year did the Titanic sink?",
+        "answers": [
+          "1907",
+          "1912",
+          "1925",
+          "1931"
+        ],
+        "correctAnswers": ["1912"]
+      },
+      {
+        "question": "Which gas do most plants absorb from the atmosphere?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Carbon Dioxide"]
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswers": ["2"]
+      }
+    ],
+    "level-12": [
+      {
+        "question": "Who wrote the play 'Hamlet'?",
+        "answers": [
+          "Charles Dickens",
+          "William Shakespeare",
+          "Jane Austen",
+          "Taras Shevchenko"
+        ],
+        "correctAnswers": ["William Shakespeare"]
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "answers": [
+          "Beijing",
+          "Seoul",
+          "Tokyo",
+          "Bangkok"
+        ],
+        "correctAnswers": ["Tokyo"]
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+          "Go",
+          "Au",
+          "Gl",
+          "Gd"
+        ],
+        "correctAnswers": ["Au"]
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "answers": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctAnswers": ["7"]
+      },
+      {
+        "question": "What is the largest internal organ in the human body?",
+        "answers": [
+          "Heart",
+          "Brain",
+          "Liver",
+          "Lungs"
+        ],
+        "correctAnswers": ["Liver"]
+      },
+      {
+        "question": "Which of the following is not a programming language?",
+        "answers": [
+          "Python",
+          "Java",
+          "Cucumber",
+          "JavaScript"
+        ],
+        "correctAnswers": ["Cucumber"]
+      },
+      {
+        "question": "What is the capital of Brazil?",
+        "answers": [
+          "Buenos Aires",
+          "Lima",
+          "Rio de Janeiro",
+          "Brasília"
+        ],
+        "correctAnswers": ["Brasília"]
+      },
+      {
+        "question": "What is the smallest planet in our solar system?",
+        "answers": [
+          "Mars",
+          "Earth",
+          "Venus",
+          "Mercury"
+        ],
+        "correctAnswers": ["Mercury"]
+      },
+      {
+        "question": "Who is the author of 'Zapovit'?",
+        "answers": [
+          "Charles Dickens",
+          "Lesya Ukrainka",
+          "Taras Shevchenko",
+          "Jane Austen"
+        ],
+        "correctAnswers": ["Taras Shevchenko"]
+      },
+      {
+        "question": "Which of the following is a noble gas?",
+        "answers": [
+          "Oxygen",
+          "Nitrogen",
+          "Argon",
+          "Hydrogen"
+        ],
+        "correctAnswers": ["Argon"]
+      }
+    ]
+  }
+}
